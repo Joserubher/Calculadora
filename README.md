@@ -9,7 +9,7 @@ Calculadora desarrollada con **HTML, CSS y JavaScript**.
 ## 🚀 Demo
 
 🔗 Ver la calculadora en funcionamiento:  
-https://Joserubher.github.io/calculator.js/
+https://Joserubher.github.io/Calculadora/
 
 ---
 
@@ -41,4 +41,4 @@ https://Joserubher.github.io/calculator.js/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Joserubher/calculatro.js.git
+   git clone https://github.com/Joserubher/Calculadora.git
